@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain based resarch projects
 - 🌱 I’m currently learning decentralized project development
 - 💞️ I’m looking to collaborate on industrial digitalizations
-- 📫 How to reach me E-MAil:muhammet.selevati@gmail.com
+- 📫 How to reach me E-Mail:muhammet.selevati@gmail.com
 
 <!---
 MoO-sci/MoO-sci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
