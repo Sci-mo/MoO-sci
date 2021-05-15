@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammad Salavati
-- 👀 I’m interested in Blockchain based resarch projects
+- 👀 I’m interested in blockchain based resarch projects
 - 🌱 I’m currently learning decentralized project development
 - 💞️ I’m looking to collaborate on industrial digitalizations
 - 📫 How to reach me E-MAil:muhammet.selevati@gmail.com
